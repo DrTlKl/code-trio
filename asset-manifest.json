@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drtlkl.github.io/code-trio/static/css/main.a617e044.chunk.css",
+    "main.js": "/drtlkl.github.io/code-trio/static/js/main.542fc43f.chunk.js",
+    "main.js.map": "/drtlkl.github.io/code-trio/static/js/main.542fc43f.chunk.js.map",
+    "runtime-main.js": "/drtlkl.github.io/code-trio/static/js/runtime-main.cf7f40d3.js",
+    "runtime-main.js.map": "/drtlkl.github.io/code-trio/static/js/runtime-main.cf7f40d3.js.map",
+    "static/js/2.1e30d968.chunk.js": "/drtlkl.github.io/code-trio/static/js/2.1e30d968.chunk.js",
+    "static/js/2.1e30d968.chunk.js.map": "/drtlkl.github.io/code-trio/static/js/2.1e30d968.chunk.js.map",
+    "static/js/3.1fef7405.chunk.js": "/drtlkl.github.io/code-trio/static/js/3.1fef7405.chunk.js",
+    "static/js/3.1fef7405.chunk.js.map": "/drtlkl.github.io/code-trio/static/js/3.1fef7405.chunk.js.map",
+    "index.html": "/drtlkl.github.io/code-trio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/drtlkl.github.io/code-trio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1e30d968.chunk.js.LICENSE.txt": "/drtlkl.github.io/code-trio/static/js/2.1e30d968.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/drtlkl.github.io/code-trio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf7f40d3.js",
+    "static/js/2.1e30d968.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.542fc43f.chunk.js"
+  ]
+}
